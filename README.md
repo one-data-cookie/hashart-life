@@ -1,7 +1,7 @@
 # hashart-life
 
 Inspired by [Aleksandr](https://www.aleksandrhovhannisyan.com/blog/144-shades-of-gray/)
-and [Jordan](https://hash.jordanscales.com/), I created my own generative hashart --
+and [Jordan](https://hash.jordanscales.com/), I created my own generative hashart –
 a PF 2025 card with a [SHA3-512](https://en.wikipedia.org/wiki/SHA-3)
 and [UTF-8](https://en.wikipedia.org/wiki/UTF-8)-hashed greeting on a 32x32 grid,
 which then evolves throughout the year as a
@@ -16,7 +16,7 @@ which then evolves throughout the year as a
 
 ## Output
 
-![output](output.png)
+![output](output.gif)
 
 ## Disclaimer
 
