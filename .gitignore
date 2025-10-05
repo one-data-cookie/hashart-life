@@ -1,6 +1,7 @@
 # Local files
 .DS_Store
 output/
+.vscode/
 
 # Python-generated files
 __pycache__/
